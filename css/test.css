@@ -1,0 +1,28 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+font-size: 30px;
+color: lightsalmon;
+}
+h2{
+color: teal;
+font-size: 25px;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+
+}
+
+.big.uppercase{
+color: indigo;
+}
+
+h1 span{
+color: cornflowerblue;
+}
