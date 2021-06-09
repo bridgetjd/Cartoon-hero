@@ -1,0 +1,42 @@
+body{
+margin: 0;
+font-family: 'Arima Madurai', cursive;
+font-size: 25px;
+text-align: center;
+}
+
+header{
+	background-color: #f4cbcb;
+	text-align: center;
+
+}
+
+h2{
+	font-family: 'Pattaya', sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
+header h1{ 
+	color: black;
+	font-family: 'Satisfy', cursive;
+	font-size: 80px;
+
+ }
+main{
+	text-align: center;
+	margin-right: 400px;
+	margin-left: 400px;
+
+}
+footer{
+	text-align: center;
+	font-size: 15px;
+	background-color: #f4cbcb;
+	padding: 50x;
+}
+a{
+	color: #48151d;
+}
+a:hover{
+	color: black;
+}
